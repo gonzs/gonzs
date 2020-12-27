@@ -1,25 +1,41 @@
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/gonzalosisnero/">
-  <img align="left" alt="gonzs's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="gonzs's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.github/gonzs/">
-  <img align="left" alt="gonzs's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="left" alt="gonzs's Github" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
-
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=gonzs) -->
 
 <br />
 
-My name is Gonzalo and I'm a software developer. I'm from Argetina, living in Buenos Aires. 
-I'm currently passionate about Web Development, specially ReactJS. Also I'm in my last year of my systems engineering degree.
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=gonzs) -->
+
+My name is Gonzalo and I'm a software developer. I'm from Argentina, living in Buenos Aires. 
+I'm currently passionate about Web Development, specially ReactJS. Also I'm in my last year of systems engineering degree.
 
 
-**Languages and Tools:**  
+
+**Languages and Tools**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-[![GONZS's github stats](https://github-readme-stats.vercel.app/api?username=gonzs&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzs&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gonzs&show_icons=true&theme=blue-green" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzs&layout=compact&theme=blue-green" alt="lang"/>
+</div>
 
 
 
