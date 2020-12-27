@@ -34,11 +34,13 @@ When I'm not coding, I like playing guitar, solving Rubik's cube and playing wit
 <br />
 
 ### 📫 Get in touch
-- LinkedIn - [Gonzalo Sisnero](https://in.linkedin.com/in/gonzalosisnero)
-- Twitter - [@gonzasisne](https://twitter.com/gonzasisne)
-- Github - [gonzs](https://github.com/gonzs)
 
- or give some ♥ on [mail](mailto:gonzalosisnero@gmail.com) .
+<p  align="center">
+  <a href= "https://in.linkedin.com/in/gonzalosisnero"><img img height="50" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/linkedin.svg"/></a>
+  <a href= "https://twitter.com/gonzasisne"><img img height="50" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/twitter.svg"/></a>
+  <a href= "https://github.com/gonzs"><img img height="50" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/github.svg"/></a>
+  <a href= "mailto:gonzalosisnero@gmail.com"><img img height="50" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/gmail.svg"/></a>
+</p>
 
 <br />
 
