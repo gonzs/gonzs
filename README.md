@@ -36,12 +36,22 @@ When I'm not coding, I like playing guitar, solving Rubik's cube and playing wit
 ### 📫 Get in touch
 
 <p  align="center">
-  <a href= "https://in.linkedin.com/in/gonzalosisnero"><img img height="50" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/linkedin.svg"/></a>
-  <a href= "https://twitter.com/gonzasisne"><img img height="50" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/twitter.svg"/></a>
-  <a href= "https://github.com/gonzs"><img img height="50" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/github.svg"/></a>
-  <a href= "mailto:gonzalosisnero@gmail.com"><img img height="50" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/gmail.svg"/></a>
+  <a href= "https://in.linkedin.com/in/gonzalosisnero">
+    <img img height="40" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/linkedin.svg"/>
+  </a>
+  <a href= "https://twitter.com/gonzasisne">
+    <img img height="40" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/twitter.svg"/>
+  </a>
+  <a href= "https://github.com/gonzs">
+    <img img height="40" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/github.svg"/>
+  </a>
+  <a href= "mailto:gonzalosisnero@gmail.com">
+    <img img height="40" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/gmail.svg"/>
+  </a>
 </p>
 
 <br />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gonzs/gonzs)
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=gonzs/gonzs" alt="visitors" />
+</p>
