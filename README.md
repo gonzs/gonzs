@@ -16,12 +16,7 @@ I'm currently passionate about Web Development, specially ReactJS. Also I'm in m
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### 📫 Get in touch
-- LinkedIn - [Gonzalo Sisnero](https://in.linkedin.com/in/gonzalosisnero)
-- Twitter - [@gonzasisne](https://twitter.com/gonzasisne)
-- Github - [gonzs](https://github.com/gonzs)
-
- or give some ♥ on [mail](mailto:gonzalosisnero@gmail.com) .
+<br />
 
 ### 📈 My GitHub Stats 
 
@@ -29,9 +24,18 @@ I'm currently passionate about Web Development, specially ReactJS. Also I'm in m
   <img src="https://github-readme-stats.vercel.app/api?username=gonzs&show_icons=true&theme=blue-green" alt="stats"/>
 </p>
 <br />
-<p align="center">
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzs&layout=compact&theme=blue-green" alt="lang"/>
 </p>
+
+<br />
+
+### 📫 Get in touch
+- LinkedIn - [Gonzalo Sisnero](https://in.linkedin.com/in/gonzalosisnero)
+- Twitter - [@gonzasisne](https://twitter.com/gonzasisne)
+- Github - [gonzs](https://github.com/gonzs)
+
+ or give some ♥ on [mail](mailto:gonzalosisnero@gmail.com) .
 
 <br />
 
