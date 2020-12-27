@@ -1,14 +1,4 @@
 ### Hi there 👋
-<a href="https://www.linkedin.com/in/gonzalosisnero/">
-  <img align="left" alt="gonzs's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.github/gonzs/">
-  <img align="left" alt="gonzs's Github" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
-
-<br />
-
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=gonzs) -->
 
 My name is Gonzalo and I'm a software developer. I'm from Argentina, living in Buenos Aires. 
 I'm currently passionate about Web Development, specially ReactJS. Also I'm in my last year of systems engineering degree.
