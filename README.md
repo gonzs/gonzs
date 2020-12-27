@@ -13,11 +13,14 @@ When I'm not coding, I like playing guitar, solving Rubik's cube and playing wit
 <code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/react.svg"/></code>
 <code><img height="25" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/html5.svg"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/css3.svg"/>></code>
-<code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/javascript.svg"/>"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/docker.svg"/>></code>
-<code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/node-dot-js.svg"/>></code>
-<code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/firebase.svg"/>></code>
-<code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/git.svg"/>></code>
+<code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/javascript.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/node-dot-js.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/mongodb.svg"/>></code>
+<code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/mysql.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/firebase.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/docker.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/git.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/visualstudiocode.svg"/></code>
 
 <br />
 
