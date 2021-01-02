@@ -2,7 +2,7 @@
 
 My name is Gonzalo and I'm a software developer. I'm from Argentina, living in Buenos Aires. 
 <br />
-I'm currently passionate and self-taught about Web Development, specially ReactJS. I'm also in my last year of systems engineering degree.
+I'm currently passionate and self-taught about Web Development, especially ReactJS. I'm also in my last year of systems engineering degree.
 <br />
 When I'm not coding, I like playing guitar, solving Rubik's cube and playing with my son.
 
