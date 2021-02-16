@@ -43,7 +43,7 @@ When I'm not coding, I like playing guitar, solving Rubik's cube and playing wit
   <a href= "https://in.linkedin.com/in/gonzalosisnero">
     <img height="40" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/linkedin.svg"/>
   </a>
-  <a href= "https://twitter.com/gonzasisne">
+  <a href= "https://twitter.com/gonzsisnro">
     <img height="40" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/twitter.svg"/>
   </a>
   <a href= "https://github.com/gonzs">
