@@ -53,7 +53,3 @@ When I'm not coding, I like playing guitar, solving Rubik's cube and playing wit
 </p>
 
 <br />
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=gonzs/gonzs" alt="visitors" />
-</p>
