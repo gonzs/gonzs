@@ -25,7 +25,7 @@ When I'm not coding, I like playing guitar, solving Rubik's cube and playing wit
 ### 📈 My GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonzs&show_icons=true&theme=blue-green" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gonzs&show_icons=true&theme=blue-green&custom_title=Gonzalo's GitHub Stats" alt="stats"/>
 </p>
 <br />
 <p align="center"> 
