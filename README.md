@@ -25,7 +25,7 @@ When I'm not coding, I like playing guitar, solving Rubik's cube and playing wit
 ### 📈 My GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonzs&show_icons=true&theme=blue-green&custom_title=Gonzalo's GitHub Stats" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gonzs&show_icons=true&theme=blue-green&custom_title=gonzs%27s%20GitHub%20Stats" alt="stats"/>
 </p>
 <br />
 <p align="center"> 
@@ -36,18 +36,18 @@ When I'm not coding, I like playing guitar, solving Rubik's cube and playing wit
 
 ### 📫 Get in touch
 
-<p  align="center">
+<p align="left">
   <a href= "https://in.linkedin.com/in/gonzalosisnero">
-    <img height="40" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/linkedin.svg"/>
+    <img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/linkedin.svg"/>
   </a>
   <a href= "https://twitter.com/gonzsisnro">
-    <img height="40" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/twitter.svg"/>
+    <img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/twitter.svg"/>
   </a>
   <a href= "https://github.com/gonzs">
-    <img height="40" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/github.svg"/>
+    <img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/github.svg"/>
   </a>
   <a href= "mailto:gonzalosisnero@gmail.com">
-    <img height="40" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/gmail.svg"/>
+    <img height="30" src="https://raw.githubusercontent.com/gonzs/gonzs/main/assets/gmail.svg"/>
   </a>
 </p>
 
